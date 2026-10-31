@@ -6,3 +6,6 @@ Tools used:
 
 Mysql
 
+Author: Falguni mehta
+
+this project is part of my portfolio ,showing the SQL skills essential for data analyst roles.
